@@ -1,4 +1,4 @@
-package bank-system;
+package banksystem;
 
 public class Main {
     
